@@ -7,7 +7,7 @@ const rotationValues = [
   { minDegree: 31, maxDegree: 90, value: "Hugs 🫂" },
   { minDegree: 91, maxDegree: 150, value: "Kisses💋" },
   { minDegree: 151, maxDegree: 210, value: "Hugs & Kisses 🫂💋" },
-  { minDegree: 211, maxDegree: 270, value: "Free Drinks 🍹" },
+  { minDegree: 211, maxDegree: 270, value: "Free Drink 🍹" },
   { minDegree: 271, maxDegree: 330, value: "Anything you want 💞" },
   { minDegree: 331, maxDegree: 360, value: "Me 😏" },
 ];
